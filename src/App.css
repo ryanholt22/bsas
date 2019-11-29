@@ -1,22 +1,44 @@
 .App {
   text-align: center;
+  outline: solid 1px gray;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
-.App-logo {
-  height: 40vmin;
+#results {
+  margin-left: 50px;
+  margin-right: 50px;
+  outline: solid 1px gray;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#BookHere {
+  margin-left: 20px;
+  margin-right: 20px;
+  outline: solid 1px gray;
 }
 
-.App-link {
-  color: #09d3ac;
+.inside{
+  margin-left: 20px;
+  margin-right: 20px;}
+
+#book{
+  width: 400px;
+}
+
+#srch{
+  float:right; 
+}
+
+#seconddiv{
+  margin-left: 50px;
+  margin-right: 50px;
+  outline: solid 1px gray;
+}
+
+#introone {
+  outline: 1px solid black;
+}
+
+#gb {
+float: left;
 }
